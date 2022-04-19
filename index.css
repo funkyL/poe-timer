@@ -1,0 +1,17 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: monospace;
+	font-size: 1.4em;
+	color:  darkgreen;
+}
+
+body {
+	background-color: #000000;
+	padding: 10px 6px;
+	float: right;
+}
+#clock4 {
+	font-size: 1em;
+	color: lightblue;
+}

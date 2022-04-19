@@ -1,0 +1,14 @@
+{
+  "name": "poe-timer",
+  "version": "1.0.0",
+  "description": "simple stop watch for poe speed running",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "funky",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^18.0.4"
+  }
+}
