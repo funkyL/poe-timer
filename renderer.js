@@ -9,7 +9,7 @@ let dmilli = 1;
 let dhour, dmin, dsec, dten, fhour, fmin, fsec, ften = "00";
 
 function deltaMilli() {
-  dmilli = Date.now() + 80000000;
+  dmilli = Date.now() + 0;
 };
 
 function calcDeltaTime() {
